@@ -12,23 +12,24 @@ people:
 - name: Evandro Filho
   pic: 1
   position: Líder
-  social:
-    - title: facebook
-      url: #
 
 - name: Paulo Roberto
   pic: 2
   position: Programador
-  social:
-    - title: facebook
-      url: #
 
 - name: Edson Ferreira 
   pic: 3
   position: Programador
-  social:
-    - title: facebook
-      url: #
+
+
+- name: Edson Ferreira 
+  pic: 3
+  position: Programador
+
+- name: Michel
+  pic: 4
+  position: Programador
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
